@@ -9,7 +9,7 @@ def subtract(x, y):
     return x - y
 
 def multiply(x, y):
-    """This function multiplies two numbers"""
+    """This function multiplies two number"""
     return x * y
 
 def divide(x, y):
